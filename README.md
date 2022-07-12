@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**xaviermurilo/xaviermurilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about Data Science, use statistics for data analysis. 
+      I'm currently doing my university in Germany with focus in Data Science.
+  
+📝 I have some certifications in: Python | SQL | Power Bi |  Data Analysis
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+          
+<a href = "https://www.linkedin.com/in/murilo-xavier-8662a8100/" target= "_blank">
+
+
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank">
+          
+
