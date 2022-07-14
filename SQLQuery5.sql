@@ -1,3 +1,10 @@
+DATASET: https://ourworldindata.org/covid-deaths
+simply querys using agregator
+
+
+
+
+
 select location, date, total_cases, new_cases,total_deaths,population
 
 from covidDeath
