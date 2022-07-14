@@ -3,7 +3,9 @@
 🌱 I’m currently learning more about Data Science, use statistics for data analysis. 
       I'm currently doing my university in Germany with focus in Data Science.
   
-📝 I have some certifications in: Python | SQL | Power Bi |  Data Analysis
+📝 I have some certifications in: Python | SQL | Power Bi |  Data Analysis | Tableu
+
+Tableu link: https://public.tableau.com/app/profile/murilo3772
   
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
