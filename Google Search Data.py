@@ -273,5 +273,5 @@ ax2.plot(df_ue_2020.MONTH, df_ue_2020.UE_BENEFITS_WEB_SEARCH)
 # In[ ]:
 
 
-
+ 
 
